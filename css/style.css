@@ -1,0 +1,138 @@
+.container {
+	width: 1440px;
+	text-align: center;
+	 margin-left: auto;
+     margin-right: auto;
+    }
+
+.head {
+	background-color: #eff0f2;
+}
+
+.logo img {
+	width: 113px;
+	height: 46px;
+}
+
+.menu img {
+	width: 30px;
+	height: 21px;
+}
+
+.products_gallery img{
+	width: 370px;
+	height: 359px;
+}
+
+.photo img {
+	width: 370px;
+	height: 440px;
+}
+div .contact_us {
+	border: 1px solid #777879;
+	width: 232px;
+	height: 53px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+div .form {
+	background-color: #485862;
+	opacity: 0.71;
+}
+
+ .form p {
+	color: #ffffff;
+	font-size: 	15px;
+}
+
+div .dark_container {
+	background-color: #262b2e;
+}
+img .header_img { 
+	width: 70px;
+	height: 84px;
+
+}
+/*оформления текста*/
+
+h1 {
+	color: #505050;
+	font-size: 45px ;
+	font-weight: bold;
+	line-height: 28px;
+	}
+	
+h2 {color: #181919
+	font-size:38px;
+
+}
+
+h3 {
+	font-size: 20px;
+	color: #3e3f3f;
+}
+
+h4 {
+	font-size: 17px;
+	color: #3e3f3f;
+}
+
+h5 {
+	font-size: 	16px;
+}
+.under_h2 {
+	font-size: 18px;
+	color: #888888;
+	text-transform: uppercase;
+}
+
+h1,h2,h3,h4,h5 {
+	text-transform: uppercase;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	font-size: 16px;
+	color: #666767;
+}
+
+ .social_media h5 {
+	color: #ffffff;
+}
+
+
+ .contact_us a {
+	color: #3c3c3d;
+	font-size: 18px;
+}
+
+
+ .servisec_container,.testimonal {
+	background-color: #f9fbfb;
+}
+.know_more {
+	font-size: 18px;
+	color: #f9fbfb;
+	text-transform: uppercase;
+}
+ .design_block_details_blue p {
+	color: #000000;
+}
+ .design_block_details_blue h3 {
+	color: #000000;
+}
+.design_block_details p {
+	color: #ffffff;
+}
+.design_block_details h3 {
+	color: #ffffff;
+}
+.dark_container p{
+	color: #ffffff;
+
+}
